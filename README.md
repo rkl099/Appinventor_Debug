@@ -8,6 +8,8 @@ Add support for Android12.
 Change USB device selection by VID or VID/PID to a single table
 
 Add VID 1a86, PID 7522 : LD-C100 USB TO CT-62 For Yaesu
+
+Improve write speed for FTDI, increase USB transfer size
  
  
 SerialOTG:
@@ -29,3 +31,4 @@ Default driver CDC if no VID/PID defined in the extension
 Possibility to force driver with property/method USBdriver. Must be set before open. See SerialOTG.apk )aia) for list of drivers
 
 Extend timeout for TCP-clien 0.5s->5s for connections over LTE
+
