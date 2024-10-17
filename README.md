@@ -20,7 +20,7 @@ Modbus:
 Add support for 16bit write and single register read
 
 
-230126 Ver 1.5 beta is available under Arduino-Debug directory
+230126 Ver 1.5 is available under Appinventor_Debug directory
 
 Uppdated com.SerialOTG.aix, SeraialOTG.aia, SerialOTG.apk, com.Modbus.aix, Modbus.aia Modbus.apk
 
